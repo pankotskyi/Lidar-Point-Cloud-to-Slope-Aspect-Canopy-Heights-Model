@@ -1,0 +1,2 @@
+# Lidar-Point-Cloud-to-Slope-Aspect-Canopy-Heights-Model
+This Python script automates the processing of LiDAR data within ArcGIS, generating key geospatial products such as Digital Elevation Models (DEMs), Digital Surface Models (DSMs), Canopy Height Models (CHMs), slope maps, and aspect maps. It utilizes ArcPy and ArcGIS Spatial Analyst extension for efficient data handling and raster calculations.
